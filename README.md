@@ -13,7 +13,7 @@ Welcome to this example project that uses nx and module federation to create a m
 First, clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Gentleman-Programming/Nx_with_ModuleFederation.git
 cd your-repo
 ```
 
