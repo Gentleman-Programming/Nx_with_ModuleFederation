@@ -41,7 +41,6 @@ bunx create-nx-workspace --pm bun hagamos-un-microfront
 ✔ Will you be using GitHub as your git hosting provider? · No
 
 cd hagamos-un-microfront
-bun add @nx/react
 nx g @nx/react:host apps/shell --remotes=characters
 nx g @nx/react:lib libs/shared
 nx show project @hagamos-un-microfront
