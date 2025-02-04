@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "dev": "nx serve shell",
+    "dev": "nx serve shell --skip-cache",
     "build": "nx build shared && nx build characters && nx build shell"
   },
   "private": true,
